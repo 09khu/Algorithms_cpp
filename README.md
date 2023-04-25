@@ -1,6 +1,7 @@
 # Algorithms_cpp
 Collection of different algorithms in C++ language
-Unit-1: Introduction to Algorithms:
+
+# Unit-1: Introduction to Algorithms:
 Programming Exercises:
 
 1. Implement a binary search algorithm for an array of integers.
