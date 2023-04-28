@@ -25,7 +25,7 @@ Programming Exercises:
 10. Implement a heap data structure and use it to sort an array of integers.
 
 
-#Unit-2: Divide and Conquer:
+# Unit-2: Divide and Conquer:
 Programming Exercises:
 
 1. Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
